@@ -1,6 +1,5 @@
 👋 Hi there, I’m Othmane Ihiri
 
-🔭 I'm a final year student
 
 👀 I’m interested in Web Development and Problem solving
 
